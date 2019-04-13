@@ -1,0 +1,8 @@
+{   
+    "accordion": [
+        { "title": "First Bellow", "text": "Hey test 1" },
+        { "title": "Second Bellow", "text": "Hey test 2" },
+        { "title": "Third Bellow", "text": "Hey test 3" },
+        { "title": "Fourth Bellow", "text": "Hey test 4" }
+    ]
+}
